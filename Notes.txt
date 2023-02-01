@@ -1,0 +1,2 @@
+Para darle privilegios a VS:
+https://platzi.com/discusiones/2042-prework-windows/129512-hola-me-sale-un-error-de-permisos-como-puedo-solucionarlo-failed-to-save-indexhtml-unable-to-write-file-vscode-remotewslubuntu-/
